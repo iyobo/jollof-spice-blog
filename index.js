@@ -1,7 +1,7 @@
 const path = require('path');
 const requireDir = require('require-dir');
 
-const spiceName = 'jollof-spice-template';
+const spiceName = 'jollof-spice-blog';
 
 module.exports = async function (jollof) {
     try {
