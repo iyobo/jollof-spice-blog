@@ -1,6 +1,6 @@
 {
   "name": "jollof-spice-blog",
-  "version": "0.0.1",
+  "version": "1.5",
   "description": "A blog spice for jollofjs",
   "main": "index.js",
   "scripts": {
